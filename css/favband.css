@@ -1,8 +1,12 @@
 img.main {
   float: right;
+  border: 2px solid pink;
+  padding: 4px;
 }
 
 .sidebar {
   background-color: pink;
   width: 20%;
+  border: 2px solid black;
+  padding: 4px;
 }
